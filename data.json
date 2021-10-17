@@ -1,3 +1,4 @@
+
 {
     "language":{
         "United States":"img/Icon_US.png",
@@ -6,6 +7,7 @@
         "Россия":"img/Icon_RU.png",
         "Казахстан":"img/Icon_KZ.png",
         "Türkiye":"img/Icon_TR.png"
+            
     },
     "menu":{    
         "serveses":{
@@ -27,3 +29,4 @@
         "About Us":{}
     }
 }
+
